@@ -102,4 +102,11 @@ public class PlayerController : ControllerBase
                     }).ToList();
     }
 
+    [Route("/listallplayers")]
+    [HttpGet]
+    public async Task<List<Player>> ListPlayers(){
+        return await _context.Players.ToListAsync();     
+    }
+
+
 } 

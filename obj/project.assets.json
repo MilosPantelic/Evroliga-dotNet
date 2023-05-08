@@ -3874,19 +3874,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Z\\.nuget\\packages\\": {}
+    "C:\\Users\\Chresh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Z\\Desktop\\Evroliga\\Evroliga\\Evroliga.csproj",
+      "projectUniqueName": "D:\\.NET vezba\\Evroliga-dotNet\\Evroliga.csproj",
       "projectName": "Evroliga",
-      "projectPath": "C:\\Users\\Z\\Desktop\\Evroliga\\Evroliga\\Evroliga.csproj",
-      "packagesPath": "C:\\Users\\Z\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Z\\Desktop\\Evroliga\\Evroliga\\obj\\",
+      "projectPath": "D:\\.NET vezba\\Evroliga-dotNet\\Evroliga.csproj",
+      "packagesPath": "C:\\Users\\Chresh\\.nuget\\packages\\",
+      "outputPath": "D:\\.NET vezba\\Evroliga-dotNet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Z\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Chresh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -3952,7 +3952,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

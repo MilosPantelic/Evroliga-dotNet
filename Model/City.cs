@@ -10,7 +10,7 @@ namespace Model
 
         public string NameCity {get; set;}
 
-       public List<Team> Teams {get; set;}
+        public List<Team> Teams {get; set;}
 
         
     }
