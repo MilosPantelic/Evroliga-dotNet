@@ -39,6 +39,8 @@ public class PlayerController : ControllerBase
             return BadRequest("Ne postoji takav tim!");
         }
 
+       
+
         var ObjPlayer = new Player();
         ObjPlayer.FirstName = firstname;
         ObjPlayer.LastName = lastname;
@@ -47,9 +49,8 @@ public class PlayerController : ControllerBase
         ObjPlayer.Team = team;
         ObjPlayer.Position = position;
         
-
         ObjPlayer.Jersey = jersey;
-
+        ObjPlayer.PlayForTeam = team.TeamName;
 
 
 

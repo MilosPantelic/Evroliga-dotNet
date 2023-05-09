@@ -23,6 +23,8 @@ namespace Model
 
         public Team Team {get; set;}
 
+        public string PlayForTeam {get; set;}
+
         public List<State> States {get; set;}
 
         [NotMapped]
